@@ -1,5 +1,7 @@
 ✨✨✨This is my second project with ESP32.
+### 🌈 ESP32 RGB LED Controller
 ### 🚀 Project Overview
+Comming soon
 
 ### 🎥 Demo
 👉Watch demo here: https://youtu.be/klJtI-NdMPE😘
@@ -42,3 +44,4 @@
 ## 👨‍💻 Author
 
 Tuấn Kiệt Nguyễn
+
