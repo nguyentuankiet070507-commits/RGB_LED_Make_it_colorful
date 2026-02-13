@@ -7,7 +7,8 @@ Comming soon
 👉Watch demo here: https://youtu.be/klJtI-NdMPE😘
 
 ## 🖼️ Project Illustration 
-- ![Description](b2d3c8c0-bdb7-4213-b2d7-61543e051305.jpg)
+- ![Description](Diagram.jpg)
+- ![Description](Schematic.png)
 
 ## 🧠 Features
 
@@ -44,5 +45,6 @@ Comming soon
 ## 👨‍💻 Author
 
 Tuấn Kiệt Nguyễn
+
 
 
