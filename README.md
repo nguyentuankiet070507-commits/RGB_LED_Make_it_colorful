@@ -1,7 +1,9 @@
 ✨✨✨This is my second project with ESP32.
 ### 🌈 ESP32 RGB LED Controller
 ### 🚀 Project Overview
-Comming soon
+- OLED show 2 options to start program
+- Design sliders on Blynk app 
+- Using Blynk to control brightness of 3 basic colors (Red, Green, Blue) to display billions of colors.
 
 ### 🎥 Demo
 👉Watch demo here: https://youtu.be/klJtI-NdMPE😘
@@ -19,16 +21,19 @@ Comming soon
 
 ## 🛠️ Hardware Used
 
-- ESP32 DevKit V1
-- RGB LED Anode
-- Resistors
-- Breadboard
-- Jumper wires
-- OLED 0.96 inch
-- Buttons
+|    Hardware    |  Quantity  |
+|----------------|------------|
+|ESP32 DevKit V1 |      1     |
+|RGB LED Anode   |      1     |
+|Resistors       |      3     |
+|Breadboard      |      1     |
+|Jumper wires    |      17    |
+|OLED 0.96 inch  |      1     |
+|Buttons         |      2     |
 
 ## 💻 Software Used
-- Blynk
+- Blynk mobile
+- Blynk web
 
 ## 🔌 Wiring Diagram
 
@@ -45,6 +50,8 @@ Comming soon
 ## 👨‍💻 Author
 
 Tuấn Kiệt Nguyễn
+Connect to me: nguyentuankiet070507@gmail.com
+
 
 
 
