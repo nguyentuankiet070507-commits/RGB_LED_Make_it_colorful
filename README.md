@@ -8,7 +8,7 @@
 ### 🎥 Demo
 👉Watch demo here: https://youtu.be/klJtI-NdMPE😘
 
-## 🖼️ Project Illustration 
+## 🖼️ Project Illustrations
 - ![Description](Diagram.jpg)
 - ![Description](Schematic.png)
 
@@ -52,6 +52,7 @@
 Tuấn Kiệt Nguyễn
 
 Connect to me: nguyentuankiet070507@gmail.com
+
 
 
 
